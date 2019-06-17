@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1560366519 source:c:\users\user\desktop\spotify\main.cpp
+	"user.h"
+
+1560753022 c:\users\user\desktop\spotify\songs.h
+	"singers.h"
+
+1560752577 source:c:\users\user\desktop\spotify\songs.cpp
+	"songs.h"
+
+1560332336 c:\users\user\desktop\spotify\singers.h
+	<iostream>
+	<cstring>
+	<algorithm>
+
+1560332335 source:c:\users\user\desktop\spotify\singers.cpp
+	"singers.h"
+
+1560753067 c:\users\user\desktop\spotify\playlist.h
+	"advert.h"
+
+1560753185 source:c:\users\user\desktop\spotify\playlist.cpp
+	"playlist.h"
+
+1560366359 source:c:\users\user\desktop\spotify\user.cpp
+	"user.h"
+	"playlist.h"
+
+1560323931 c:\users\user\desktop\spotify\user.h
+	"playlist.h"
+
+1560166125 source:c:\users\user\desktop\spotify\advert.cpp
+	"advert.h"
+
+1560753232 c:\users\user\desktop\spotify\advert.h
+	<iostream>
+	<cstring>
+	"songs.h"
+
